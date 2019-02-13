@@ -17,12 +17,12 @@ li {
 }
 .navbar
 {
-padding-top: 50px;
+padding-top: 150px;
 }
-.img{
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: -1;
-  float: right;
+.div
+{
+  width: 300px;
+  padding: 25px;
+  border: 25px solid navy;
+  margin: 25px;
 }
